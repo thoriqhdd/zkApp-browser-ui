@@ -7,7 +7,7 @@ import { useEffect, useState, useRef} from "react";
 import './reactCOIServiceWorker';
 import ZkappWorkerClient from './zkappWorkerClient';
 import type { AppProps } from 'next/app';
-cd ,,import {
+import {
   PublicKey,
   PrivateKey,
   Field,
@@ -629,13 +629,6 @@ export default function App() {
 
 	</div>
   	);
-		function App() {
-		return (
-		  <>
-			<Nav />
-			<h1>Hello world</h1>
-		  </>
-		);
-	  }
+		
   
 }
