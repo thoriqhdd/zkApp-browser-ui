@@ -7,8 +7,7 @@ import { useEffect, useState, useRef} from "react";
 import './reactCOIServiceWorker';
 import ZkappWorkerClient from './zkappWorkerClient';
 import type { AppProps } from 'next/app';
-import Nav from './Nav'
-import {
+cd ,,import {
   PublicKey,
   PrivateKey,
   Field,
